@@ -1,4 +1,4 @@
-class Box
+#class Box
   def initialize(width,height)
    @width=width
    @height=height 
